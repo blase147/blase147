@@ -3,3 +3,5 @@ I'm a Full-stack software engineer proficient in HTML5, CSS, JavaScript, Bootstr
 
 [![Chukwuma's GitHub stats](https://github-readme-stats.vercel.app/api?username=blase147)](https://github.com/blase147/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blase147&layout=compact)](https://github.com/blase147/github-readme-stats)
+
