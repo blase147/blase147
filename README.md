@@ -6,9 +6,24 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blase147&layout=compact)](https://github.com/blase147/github-readme-stats)
 
 <p align="center">
-  <a href="https://blase147.github.io/gh-profile-readme-generator">
-    <img alt="GitHub Profile Readme Generator" src="./src/images/mdg.png" width="60" />
-  </a>
+<a href="https://github.com/blase147/github-profile-readme-generator/blob/master/LICENSE" target="blank">
+<img src="https://img.shields.io/github/license/blase147/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator license" />
+</a>
+<a href="https://github.com/blase147/github-profile-readme-generator/fork" target="blank">
+<img src="https://img.shields.io/github/forks/blase147/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator forks"/>
+</a>
+<a href="https://github.com/blase147/github-profile-readme-generator/stargazers" target="blank">
+<img src="https://img.shields.io/github/stars/blase147/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator stars"/>
+</a>
+<a href="https://github.com/blase147/github-profile-readme-generator/issues" target="blank">
+<img src="https://img.shields.io/github/issues/blase147/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator issues"/>
+</a>
+<a href="https://github.com/blase147/github-profile-readme-generator/pulls" target="blank">
+<img src="https://img.shields.io/github/issues-pr/blase147/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator pull-requests"/>
+</a>
+<a href="https://discord.gg/HHMs7Eg" target="blank">
+<img src="https://img.shields.io/discord/735303195105951764?label=Join%20Community&logo=discord&style=flat-square" alt="join discord community of github profile readme generator"/>
+</a>
 </p>
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
