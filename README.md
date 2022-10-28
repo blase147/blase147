@@ -37,3 +37,4 @@
 
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
 ![javascript](https://img.shields.io/badge/javascript-000000?style=for-the-badge&logo=javascript&logoColor=white)
+![Snake animation](https://github.com/blase147/blase147/blob/output/github-contribution-grid-snake.svg)
