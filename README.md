@@ -5,6 +5,12 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blase147&layout=compact)](https://github.com/blase147/github-readme-stats)
 
+<p align="center">
+  <a href="https://blase147.github.io/gh-profile-readme-generator">
+    <img alt="GitHub Profile Readme Generator" src="./src/images/mdg.png" width="60" />
+  </a>
+</p>
+
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
