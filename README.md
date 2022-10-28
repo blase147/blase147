@@ -1,8 +1,8 @@
 ## Hi, I'm Chukwuma Paul Mosanya
 -- I'm a Full-stack software engineer proficient in HTML5, CSS, JavaScript, Bootstrap, SASS, React, and Ruby on Rails. I'm open to new opportunities and partnerships.
 [![Twitter: Chukwuma Mosanya](https://img.shields.io/twitter/follow/ChukwumaMosanya?style=social)](https://twitter.com/ChukwumaMosanya)
-[![Linkedin: Chukwuma Mosanya](https://img.shields.io/badge/-chukwuma-mosanya-34645388-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/chukwuma-mosanya-34645388/)
-[![GitHub Chukwuma Mosanya](https://img.shields.io/github/followers/blase147?label=follow&style=social)](https://github.com/blase147)
+[![Linkedin: chukwuma-mosanya-34645388](https://img.shields.io/badge/-chukwuma-mosanya-34645388-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/chukwuma-mosanya-34645388/)
+[![GitHub blase147](https://img.shields.io/github/followers/blase147?label=follow&style=social)](https://github.com/blase147)
 
 [![Chukwuma's GitHub stats](https://github-readme-stats.vercel.app/api?username=blase147)](https://github.com/blase147/github-readme-stats)
 
@@ -40,4 +40,3 @@
 
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
 ![javascript](https://img.shields.io/badge/javascript-000000?style=for-the-badge&logo=javascript&logoColor=white)
-![Snake animation](https://github.com/blase147/blase147/blob/output/github-contribution-grid-snake.svg)
