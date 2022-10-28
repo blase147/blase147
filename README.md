@@ -5,6 +5,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blase147&layout=compact)](https://github.com/blase147/github-readme-stats)
 
-┌─[jeff@matrix] - [/home/jeff] - [2020-07-25 10:48:42]
-└─[0] <> curl -X PURGE https://camo.githubusercontent.com/1dc7d7611b4dbdca4b54c6cacdd2823f1bce4fca/68747470733a2f2f6a7274656368732e6e65742f6170692f726563656e745356472e7376673f
-{ "status": "ok", "id": "4942-1591860663-32446227" }
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
