@@ -15,6 +15,5 @@
 </p>
 
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
-![photoshop](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
-![adobe illustrator](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
-![Snake animation](https://github.com/blase147/blob/output/github-contribution-grid-snake.svg)
+![photoshop](https://img.shields.io/badge/photoshop-000000?style=for-the-badge&logo=GitHub&logoColor=white)
+![adobe illustrator](https://img.shields.io/badge/adobe illustrator-000000?style=for-the-badge&logo=GitHub&logoColor=white)
