@@ -5,3 +5,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blase147&layout=compact)](https://github.com/blase147/github-readme-stats)
 
+<p align="left">
+  <a href="https://jrtechs.net">
+    <img src="https://jrtechs.net/api/recentSVG" alt="Recent Blog Posts"></img>
+  </a>
+</p>
+
