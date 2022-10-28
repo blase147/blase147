@@ -15,5 +15,5 @@
 </p>
 
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
-![photoshop](https://img.shields.io/badge/photoshop-000000?style=for-the-badge&logo=photoshop&logoColor=white)
+![Ruby on Rails](https://img.shields.io/badge/Ruby on Rails-000000?style=for-the-badge&logo=Ruby on Rails&logoColor=white)
 ![javascript](https://img.shields.io/badge/javascript-000000?style=for-the-badge&logo=javascript&logoColor=white)
