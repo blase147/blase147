@@ -1,15 +1,23 @@
 ## Hi, I'm Chukwuma Paul Mosanya
--- I'm a Full-stack software engineer proficient in HTML5, CSS, JavaScript, Bootstrap, SASS, React, and Ruby on Rails. I'm open to new opportunities and partnerships.
+  -- I'm a Full-stack software engineer proficient in HTML5, CSS, JavaScript, Bootstrap, SASS, React, and Ruby on Rails. I'm open to new opportunities and partnerships.
 
-<div id="header" align="right">
+<div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
+  
+<div id="header">
+  <a href="https://www.linkedin.com/in/chukwuma-mosanya">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="(https://twitter.com/ChukwumaMosanya">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 
-[![Twitter: Chukwuma Mosanya](https://img.shields.io/twitter/follow/ChukwumaMosanya?style=social)](https://twitter.com/ChukwumaMosanya)
-[![GitHub: blase147](https://img.shields.io/github/followers/blase147?label=follow&style=social)](https://github.com/blase147)
+ [![Chukwuma's GitHub stats](https://github-readme-stats.vercel.app/api?username=blase147)](https://github.com/blase147/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blase147&layout=compact)](https://github.com/blase147/github-readme-stats)
 
-[![Chukwuma's GitHub stats](https://github-readme-stats.vercel.app/api?username=blase147)](https://github.com/blase147/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blase147&layout=compact)](https://github.com/blase147/github-readme-stats)
+
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
