@@ -9,6 +9,9 @@
   <a href="https://www.linkedin.com/in/chukwuma-mosanya">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+      <a href="([https://twitter.com/ChukwumaMosanya](https://angel.co/u/chukwuma-mosanya)">
+    <img src="https://img.shields.io/badge/wellfound-red?style=for-the-badge&logo=wellfound&logoColor=white" alt="Wellfound, formally Angelist Badge"/>
+  </a>
   <a href="(https://twitter.com/ChukwumaMosanya">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
