@@ -1,5 +1,5 @@
 ## Hi, I'm Chukwuma Paul Mosanya
-  -- I'm a Full-stack software engineer proficient in HTML5, CSS, JavaScript, Bootstrap, SASS, React, and Ruby on Rails. I'm open to new opportunities and partnerships.
+  ### I'm a Full-stack software engineer proficient in HTML5, CSS, JavaScript, Bootstrap, SASS, React, and Ruby on Rails. I'm open to new opportunities and partnerships.
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
