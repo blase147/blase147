@@ -1,10 +1,10 @@
 <h1>
-  hey there
+  Hi
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 I'm Chukwuma Paul Mosanya
 </h1>
 
-### I'm a Full-stack software engineer proficient in HTML5, CSS, JavaScript, Bootstrap, SASS, React, and Ruby on Rails. I'm open to new opportunities and partnerships.
+### A Full-stack software engineer with practical skills in graphics design, video editing and animation creation. I'm open to new opportunities and partnerships.
 
 
 <div id="header" align="center">
@@ -30,34 +30,27 @@ I'm Chukwuma Paul Mosanya
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
+  
+  [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,react,redux,rails,ruby,postgres,nodejs,vscode,webpack,jest,git,aws,ai,blender,pr,ps,ae,arduino)](https://skillicons.dev)
 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-</div>
-
+  
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
 ---
 
-### :woman_technologist: About Me :
+### :man_technologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I’m a Software Engineer and contributing to building frontend and backend web applications.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Proficient Technical Content Writer.
+
+- 💻: I do graphics design and animation creation for startups and big conglomerates.
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Chukwuma-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/chukwuma-mosanya)
+- :mailbox:You can reach me on: [![Linkedin Badge](https://img.shields.io/badge/-Chukwuma-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/chukwuma-mosanya)
 
 ---
 
