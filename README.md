@@ -4,7 +4,7 @@
 I'm Chukwuma Paul Mosanya
 </h1>
 
-### A Full-stack software engineer with practical skills in graphics design, video editing and animation creation. I'm open to new opportunities and partnerships.
+### Full-stack software engineer > HTML5 | CSS | JavaScript | Bootstrap | SASS | React | Typescript | Information Security Systems | Ruby | Ruby on rails, with practical skills in graphics design, video editing and animation creation.Got a job for me?...Please don't hesitate to reach out
 
 
 <div id="header" align="center">
