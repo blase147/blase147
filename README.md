@@ -31,7 +31,7 @@ I'm Chukwuma Paul Mosanya
 
 ### :hammer_and_wrench: Languages and Tools :
   
-  [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,react,redux,rails,ruby,postgres,nodejs,vscode,webpack,jest,git,aws,ai,blender,pr,ps,ae,arduino)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,react,redux,rails,ruby,python,postgres,nodejs,vscode,webpack,jest,git,aws,ai,blender,pr,ps,ae,arduino)](https://skillicons.dev)
 
   
 <div align="center">
