@@ -4,7 +4,7 @@
 I'm Chukwuma Paul Mosanya
 </h1>
 
- A full-stack software engineer > HTML5 | CSS | JavaScript | Bootstrap | SASS | React | Typescript | Information Security Systems | Ruby | Ruby on rails | Python | Node.js | MySQL | Postgres | Mongodb | AWS, with practical skills in graphics design, video editing, and animation creation. Got a job for me?... Please don't hesitate to reach out
+ A full-stack software engineer > HTML5 | CSS | JavaScript | Bootstrap | SASS | React | Typescript | Information Security Systems | Ruby | Ruby on rails | Python | Node.js | MySQL | Postgres | Mongodb | AWS, with practical skills in graphics design, video editing, and animation creation. Got a job for me?... Please don't hesitate to reach out.
 
 
 <div id="header" align="center">
