@@ -18,7 +18,7 @@ I'm Chukwuma Paul Mosanya
       <a href="https://wellfound.com/u/chukwuma-mosanya">
     <img src="https://img.shields.io/badge/wellfound-red?style=for-the-badge&logo=wellfound&logoColor=white" alt="Wellfound, formally Angelist Badge"/>
   </a>
-  <a href="(https://www.twitter.com/ChukwumaMosanya">
+  <a href="https://www.twitter.com/ChukwumaMosanya">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
  </div>
